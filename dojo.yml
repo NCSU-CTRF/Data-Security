@@ -3,6 +3,6 @@ name: Data Security
 type: test-dojo
 award:
   emoji: 😀
-image: 
+image: pwncollege/challenge-simple
 modules:
   - id: caesar
