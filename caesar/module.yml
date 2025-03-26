@@ -1,0 +1,4 @@
+name: Caesar
+challenges:
+  - id: caesar
+    name: Caesar Cipher
