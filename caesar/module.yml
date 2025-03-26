@@ -1,4 +1,4 @@
-name: Caesar
+name: Text Decryption
 challenges:
   - id: caesar-level
     name: Caesar Cipher
