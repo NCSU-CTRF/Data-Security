@@ -1,3 +1,5 @@
+#!/usr/bin/exec-suid -- /usr/local/bin/python -I
+
 import random
 import string
 
