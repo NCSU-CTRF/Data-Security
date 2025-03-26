@@ -1,4 +1,4 @@
 name: Caesar
 challenges:
-  - id: caesar
+  - id: caesar-level
     name: Caesar Cipher
