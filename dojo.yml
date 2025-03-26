@@ -5,6 +5,4 @@ award:
   emoji: 😀
 image: 
 modules:
-  - id: hello
   - id: caesar
-  - id: demo
